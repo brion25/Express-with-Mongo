@@ -1,0 +1,23 @@
+{
+  "name": "mongo-and-express",
+  "version": "1.0.0",
+  "description": "Basic example of MongoDB with ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brion25/Express-with-Mongo.git"
+  },
+  "keywords": [
+    "Mongo",
+    "ExpressJS"
+  ],
+  "author": "JC Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brion25/Express-with-Mongo/issues"
+  },
+  "homepage": "https://github.com/brion25/Express-with-Mongo#readme"
+}
