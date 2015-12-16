@@ -55,3 +55,8 @@ This command will return a table with the data arranged inside that table:
 ## Thanks
 
 I hope this basic example have helped you guys, see you :). please follow me on [Twitter](https://twitter.com/bartsis)
+
+## To do
+
+- Add Unit Tests
+- Add more routes with update and delete
